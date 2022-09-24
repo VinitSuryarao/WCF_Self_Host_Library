@@ -1,0 +1,14 @@
+E:\Study\Code\WCF\ClientApp2\bin\Debug\ClientApp2.exe.config
+E:\Study\Code\WCF\ClientApp2\bin\Debug\ClientApp2.exe
+E:\Study\Code\WCF\ClientApp2\bin\Debug\ClientApp2.pdb
+E:\Study\Code\WCF\ClientApp2\bin\Debug\CalculatorLibrary.dll
+E:\Study\Code\WCF\ClientApp2\bin\Debug\CalculatorLibrary.pdb
+E:\Study\Code\WCF\ClientApp2\bin\Debug\CalculatorLibrary.dll.config
+E:\Study\Code\WCF\ClientApp2\obj\Debug\ClientApp2.csproj.AssemblyReference.cache
+E:\Study\Code\WCF\ClientApp2\obj\Debug\ClientApp2.Form1.resources
+E:\Study\Code\WCF\ClientApp2\obj\Debug\ClientApp2.Properties.Resources.resources
+E:\Study\Code\WCF\ClientApp2\obj\Debug\ClientApp2.csproj.GenerateResource.cache
+E:\Study\Code\WCF\ClientApp2\obj\Debug\ClientApp2.csproj.CoreCompileInputs.cache
+E:\Study\Code\WCF\ClientApp2\obj\Debug\ClientApp2.csproj.CopyComplete
+E:\Study\Code\WCF\ClientApp2\obj\Debug\ClientApp2.exe
+E:\Study\Code\WCF\ClientApp2\obj\Debug\ClientApp2.pdb

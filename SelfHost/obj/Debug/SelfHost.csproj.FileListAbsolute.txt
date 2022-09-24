@@ -1,0 +1,11 @@
+E:\Study\Code\WCF\SelfHost\bin\Debug\SelfHost.exe.config
+E:\Study\Code\WCF\SelfHost\bin\Debug\SelfHost.exe
+E:\Study\Code\WCF\SelfHost\bin\Debug\SelfHost.pdb
+E:\Study\Code\WCF\SelfHost\bin\Debug\CalculatorLibrary.dll
+E:\Study\Code\WCF\SelfHost\bin\Debug\CalculatorLibrary.pdb
+E:\Study\Code\WCF\SelfHost\bin\Debug\CalculatorLibrary.dll.config
+E:\Study\Code\WCF\SelfHost\obj\Debug\SelfHost.csproj.AssemblyReference.cache
+E:\Study\Code\WCF\SelfHost\obj\Debug\SelfHost.csproj.CoreCompileInputs.cache
+E:\Study\Code\WCF\SelfHost\obj\Debug\SelfHost.csproj.CopyComplete
+E:\Study\Code\WCF\SelfHost\obj\Debug\SelfHost.exe
+E:\Study\Code\WCF\SelfHost\obj\Debug\SelfHost.pdb

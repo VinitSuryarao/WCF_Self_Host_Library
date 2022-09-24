@@ -1,0 +1,7 @@
+E:\Study\Code\WCF\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll.config
+E:\Study\Code\WCF\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+E:\Study\Code\WCF\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+E:\Study\Code\WCF\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+E:\Study\Code\WCF\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+E:\Study\Code\WCF\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+E:\Study\Code\WCF\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
